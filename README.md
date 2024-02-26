@@ -1,4 +1,4 @@
-### 안녕하세요 👋 <br/> 👋
+### Hi 👋 <br/> I am SEUNGIL. 
 <br/>
 
 <p align="left">
