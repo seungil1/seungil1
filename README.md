@@ -1,4 +1,4 @@
-<h2>Hi 👋<h2/> <br/> <br/>I am SEUNGIL. 
+<h2>Hi 👋<h2/> <br/> I am SEUNGIL. 
 <br/>
 
 <p align="left">
