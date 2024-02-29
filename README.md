@@ -1,5 +1,4 @@
 <h2>Hi 👋<h2/> <br/> I am SEUNGIL. 
-<br/>
 
 <p align="left">
 </p>
