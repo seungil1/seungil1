@@ -1,5 +1,4 @@
 <h2>Hi 👋<h2/>
-iam seungil
 
 <p align="left">
 </p>
